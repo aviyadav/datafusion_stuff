@@ -167,7 +167,3 @@ This demo repository is intended for examples and learning. No license file is i
 
 ---
 
-If you want, I can:
-- Add a short runnable `examples/` script that reproduces the main notebook actions in plain Python.
-- Generate a `requirements.txt` or `poetry.lock` to make environment creation reproducible.
-- Add a short troubleshooting/FAQ section for common DataFusion + PyArrow issues on different OSes.
