@@ -1,0 +1,13 @@
+[project]
+name = "datafusion-datalake-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datafusion>=52.3.0",
+    "jupyter>=1.1.1",
+    "pandas>=3.0.2",
+    "plotly>=6.6.0",
+    "pyarrow>=23.0.1",
+]
